@@ -5,6 +5,31 @@
 - Support `Big Sur 11.6.2`
 
 
+So let`s start:
+
+## Bios Version
+
+2022-01-05
+
+7C35vAC1(Beta version)   
+
+## Bios Settings:
+
+##### Enabled:
+
+- EHCI/XHCI Hand-off
+
+- Above 4G decoding
+
+
+
+##### Disabled:
+
+- CSM
+
+
+
+
 
 # 
 
